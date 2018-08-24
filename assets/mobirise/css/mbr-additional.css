@@ -1377,20 +1377,6 @@ body {
   font-style: italic;
   letter-spacing: 1rem;
 }
-.cid-qwTXGaUGDn {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-qwTXGaUGDn H1 {
-  color: #232323;
-}
-.cid-qwTXGaUGDn H3 {
-  color: #232323;
-}
-.cid-qwTXGaUGDn P {
-  color: #232323;
-}
 .cid-qwTDXa80kH {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1416,6 +1402,20 @@ body {
 }
 .cid-qwTDXa80kH .mbr-text,
 .cid-qwTDXa80kH .mbr-section-btn {
+  color: #232323;
+}
+.cid-qwTXGaUGDn {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-qwTXGaUGDn H1 {
+  color: #232323;
+}
+.cid-qwTXGaUGDn H3 {
+  color: #232323;
+}
+.cid-qwTXGaUGDn P {
   color: #232323;
 }
 .cid-qwTDWLSdZ0 {
